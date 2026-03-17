@@ -1,5 +1,230 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Se ha probado en esta audiencia y de ello nos hemos ocupado extensamente en pasajes"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "51b24803-f593-4dd6-8056-313d7e2d549d"
+    },
+    {
+      "start_time": 16,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "anteriores de este alegato la realización de múltiples actos ilícitos que a su vez"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Escribir",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Lami Dozo, Basilio Arturo",
+          "category": "Personajes"
+        }
+      ],
+      "uuid": "89189c52-7c77-4f3c-8ed1-078659df516b"
+    },
+    {
+      "start_time": 24,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "encuadran en diversas figuras del Código Penal. Antes de entrar al análisis de la intervención"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c3fe178b-fd65-48dc-8444-91f94a434240"
+    },
+    {
+      "start_time": 33,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de los procesados en estos actos conviene establecer cuál es la responsabilidad que"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1ee767b3-01d0-41c9-9e2a-ebabd1f9d024"
+    },
+    {
+      "start_time": 41,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "cabe a aquellos que asumen una participación cuya particular característica consiste en"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Galtieri, Leopoldo Fortunato",
+          "category": "Personajes"
+        }
+      ],
+      "uuid": "822469f7-2269-4cad-8ed9-4ac85374c120"
+    },
+    {
+      "start_time": 49,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que no se registra su presencia en el lugar y en el momento en que las actividades ilícitas"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ebfe3354-9a32-4d64-8ef2-5d0cc5232e70"
+    },
+    {
+      "start_time": 55,
+      "end_time": 63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "se desarrollaron y cuya actividad radica en haber dado las órdenes generales a partir"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Conclusión sobre la pena",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Preguntas",
+          "category": "Dispositivos retóricos"
+        }
+      ],
+      "uuid": "a95c2d64-f2f6-47b5-aa73-f15228b08540"
+    },
+    {
+      "start_time": 63,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de las cuales el conjunto de delitos aquí presentados se cometió."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5ef05a45-0d6d-4aa8-8d29-1da6a89098c5"
+    },
+    {
+      "start_time": 74,
+      "end_time": 82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Las órdenes a cuyo contenido más adelante me referiré, dadas desde la cabeza del aparato"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "94177ed6-d22f-4cc0-8480-9a4a305c5110"
+    },
+    {
+      "start_time": 82,
+      "end_time": 91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "estatal significaron la asignación de una parte importante de este, provista de elementos"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c055c7a5-ef26-4f5b-b847-287f5225fa18"
+    },
+    {
+      "start_time": 91,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "materiales de toda clase a la realización de una cantidad de actividades comprensivas"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primer plano—De perfil",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        }
+      ],
+      "uuid": "6b94be80-2feb-466d-bd05-153963ba90c4"
+    },
+    {
+      "start_time": 99,
+      "end_time": 103,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de muchos y graves delitos descriptos en el Código Penal."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3eb9e58c-ae90-4243-a178-44359559b706"
+    }
+  ],
   "set": "Default",
   "event_id": "d5ca12cb-5cd9-40bd-ac15-a1c1a1302793",
   "source_id": "539923ac-2640-4d2a-af59-16afaa6aab3c"
