@@ -26,7 +26,24 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://memoriaabierta.org.ar/wp/wp-content/uploads/2015/01/LOGO.jpg",
+      "children": [
+        {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
         }
       ]
     }
@@ -35,7 +52,7 @@
   "created_by": "valentinaarchivo",
   "title": "Responsabilidad Mediata",
   "slug": "responsabilidad-mediata",
-  "updated_at": "2026-03-17T21:27:41.964Z",
+  "updated_at": "2026-03-17T21:30:47.072Z",
   "updated_by": "valentinaarchivo",
   "autogenerate": {
     "enabled": false,
